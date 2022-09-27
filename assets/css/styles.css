@@ -65,6 +65,7 @@ a {
   text-decoration: none;
 }
 
+
 img {
   max-width: 100%;
   height: auto;
@@ -331,7 +332,11 @@ img {
   width: 65%;
 }
 
-.skills__ux {
+.skills__py {
+  width: 85%;
+}
+
+.skills__dj {
   width: 85%;
 }
 
